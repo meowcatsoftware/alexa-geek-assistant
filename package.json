@@ -1,0 +1,30 @@
+{
+  "name": "alexa-geek-assistant",
+  "version": "1.0.0",
+  "description": "An Amazon Alexa skill to satisfy every geek's needs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/meowcatsoftware/alexa-geek-assistant.git"
+  },
+  "keywords": [
+    "Alexa",
+    "Amazon",
+    "geek",
+    "skill",
+    "AWS",
+    "Node.js"
+  ],
+  "author": "Meowcat McMeow XVIII",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/meowcatsoftware/alexa-geek-assistant/issues"
+  },
+  "homepage": "https://github.com/meowcatsoftware/alexa-geek-assistant#readme",
+  "dependencies": {
+    "ask-sdk": "^2.3.0"
+  }
+}
